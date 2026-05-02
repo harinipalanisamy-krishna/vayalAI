@@ -5,12 +5,6 @@ Enhanced multi-page interactive app with voice input, crop recommendations, weed
 
 import streamlit as st
 import pandas as pd
-import numpy as np
-import datetime
-import time
-import re
-import plotly.graph_objects as go
-import plotly.express as px
 from datetime import datetime, timedelta
 import random
 
